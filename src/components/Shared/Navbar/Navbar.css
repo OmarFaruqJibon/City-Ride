@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Raleway&display=swap');
+
+.brand-title{
+    font-weight: 800;
+    color: rgb(223 70 45);
+    margin-left: 4px;
+    margin-top: 10px;
+    font-size: 19px;
+    font-family: 'Bad Script', cursive;
+}
