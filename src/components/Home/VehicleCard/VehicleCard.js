@@ -1,5 +1,4 @@
 import React from 'react';
-import { useHistory } from 'react-router';
 import { Link } from 'react-router-dom';
 import './VehicleCard.css'
 
@@ -33,6 +32,3 @@ const VehicleCard = (props) => {
 };
 
 export default VehicleCard;
-
-
-// onClick={() => bookVehicle(_id)}

@@ -12,7 +12,7 @@ const ServiceDetail = () => {
     },[]);
 
     const ExactItem = vehicle.filter(td => td._id === id);
-    // console.log(ExactItem);
+    console.log(ExactItem);
 
     return (
         <div className="d-flex justify-content-center align-items-center">

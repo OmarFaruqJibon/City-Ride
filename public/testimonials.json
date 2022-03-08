@@ -16,11 +16,5 @@
         "name": "Luke Shaw",
         "designation": "Accountant, ABCD Bank",
         "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    {
-        "_id": "607ff663c236bd00154d8227",
-        "name": "Fardin",
-        "designation": "CEO, Evergreen-shop.com",
-        "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
 ]

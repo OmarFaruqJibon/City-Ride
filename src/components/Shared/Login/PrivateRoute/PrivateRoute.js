@@ -6,7 +6,8 @@ import Login from '../Login';
 const PrivateRoute =({ children, ...rest }) => {
     const {user} = useAuth();
     console.log(user);
-    <Route
+    return(
+      <Route
       {...rest}
       render={({ location }) =>
         user.email ? (
@@ -21,5 +22,6 @@ const PrivateRoute =({ children, ...rest }) => {
         )
       }
     />
+    );
 }
 export default PrivateRoute;

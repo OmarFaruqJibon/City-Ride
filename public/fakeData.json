@@ -19,12 +19,5 @@
         "price": "105",
         "description": "Vehicle Type: Pickup Truck, Doors: 5, Seats: 4, Luggage: 6 Suitcases / 8 Bags, Transmission: Manual",
         "imageURL": "https://i.ibb.co/SJK7QYs/isuzu.png"
-    },
-    {
-        "_id": "6079615d0489a32f948c416a",
-        "name": "Chevrolet Crossover",
-        "price": "434",
-        "description": "Vehicle Type: Crossover, Doors: 5, Seats: 7, Luggage: 5Suitcases / 5Bags, Transmission: Automatic",
-        "imageURL": "https://i.ibb.co/VggL0Wz/jeep.png"
     }
 ]
